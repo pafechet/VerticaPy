@@ -128,6 +128,11 @@ def validate_path(path: str) -> str:
     path : str
         The file path to validate.
 
+    Returns
+    -------
+    string
+        The validated file path.
+
     Raises
     ------
     ValueError
